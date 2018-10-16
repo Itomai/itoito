@@ -228,14 +228,13 @@ font-weight:bold;}
 </div>
 
 ***
-### 
-** Sonnya Hennie gagnant le championnat du monde de patinage artistique à Stockholm **
+
+##**Sonnya Hennie gagnant le championnat du monde de patinage artistique à Stockholm**
 
 [Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4){:target="_blank"}
 
 
 
-### 
 
 
 <p>
