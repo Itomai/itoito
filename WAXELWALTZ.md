@@ -231,10 +231,11 @@ WAXELWALTZ
 
 **Sonja Henie**
 
-[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4)
-https://gallica.bnf.fr/ark:/12148/btv1b9046044f {:target="_blank"}
+[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4) {:target="_blank"}
 
 
+[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9046044f
+) {:target="_blank"}
 
 
 
