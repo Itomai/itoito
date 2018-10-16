@@ -180,7 +180,7 @@ font-weight:bold;}
 </style>
 
 
-## Document n°1 - TEST
+##WAXELWALTZ 1
 
 
 <div class="carousel">
@@ -229,7 +229,7 @@ font-weight:bold;}
 
 ***
 
-##**Sonnya Hennie gagnant le championnat du monde de patinage artistique à Stockholm**
+##**Sonya Hennie gagnant le championnat du monde de patinage artistique à Stockholm** 
 
 [Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4){:target="_blank"}
 
