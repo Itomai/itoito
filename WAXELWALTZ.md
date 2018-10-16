@@ -20,15 +20,15 @@
     position: relative;
     overflow: hidden;
     width: 100%;
-    height:690px;
+    height:100%;
 }
 
 .carousel-open:checked + .carousel-item {
-    position: absolute;
+    position: relative;
     opacity: 100;
     background-color:black;
     width:100%;
-    height:690px;
+    height:100%;
 }
 
 .carousel-item {
@@ -208,19 +208,19 @@ WAXELWALTZ
          <li>
             <label class="carousel-bullet" for="carousel-1">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc1/doc1_1.jpg" />
+              <img src="./img/doc1/sonya1.jpeg" />
             </div>
          </li>
          <li>
             <label class="carousel-bullet" for="carousel-2">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc1/doc1_2.jpg" />
+              <img src="./img/doc1/sonya.jpeg" />
             </div>
           </li>  
          <li>
             <label class="carousel-bullet" for="carousel-3">●</label>
             <div class="carousel-preview">
-              <img src="./img/doc1/doc1_1.jpg" />
+              <img src="./img/doc1/sonya3.jpeg" />
             </div>
          </li>
     </ol>
@@ -231,11 +231,10 @@ WAXELWALTZ
 
 **Sonja Henie**
 
-[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4) {:target="_blank"}
-
-
+[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4) {
 [Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9046044f
-) {:target="_blank"}
+) {
+
 
 
 
