@@ -180,7 +180,7 @@ font-weight:bold;}
 </style>
 
 
-WAXELWALTZ 1
+WAXELWALTZ
 
 
 <div class="carousel">
@@ -191,11 +191,11 @@ WAXELWALTZ 1
       </div>
       <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-  <img class="pic" src="./img/doc1/doc1_2.jpg">
+  <img class="pic" src="./img/doc1/sonya2.jpeg">
       </div>
       <input name="carousel" class="carousel-open" id="carousel-3" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc1/doc1_1.jpg">
+<img class="pic" src="./img/doc1/sonya3.jpeg">
       </div>
       <label class="carousel-control prev control-1" for="carousel-3">‹</label>
       <label class="carousel-control next control-1" for="carousel-2">›</label>
@@ -229,9 +229,10 @@ WAXELWALTZ 1
 
 ***
 
-**Sonnya Hennie gagnant le championnat du monde de patinage artistique à Stockholm**
+**Sonja Henie**
 
-[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4){:target="_blank"}
+[Consulter le document numérisé](https://gallica.bnf.fr/ark:/12148/btv1b9034949q.r=patinage%20artistique?rk=107296;4)
+https://gallica.bnf.fr/ark:/12148/btv1b9046044f {:target="_blank"}
 
 
 
