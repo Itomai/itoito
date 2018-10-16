@@ -186,7 +186,7 @@ font-weight:bold;}
    <div class="carousel-inner">
       <input name="carousel" class="carousel-open" id="carousel-1" aria-hidden="true" type="radio" hidden="true" Checked/>
       <div class="carousel-item">
-<img class="pic" src="./img/doc1/doc1_1.jpg">
+<img class="pic" src="./img/doc1/sonya.jpeg">
       </div>
       <input name="carousel" class="carousel-open" id="carousel-2" aria-hidden="true" type="radio" hidden="true"/>
       <div class="carousel-item">
